@@ -9,7 +9,7 @@
 </div>
 <br>
 
-Welcome to [FLIM Imager](https://github.com/flim-labs/flim-imager), a Tauri application dedicated to **real-time image acquisition and reconstruction**. This software offers a variety of customization tools, including colormap selection, contrast adjustment, ROI exploration, and image region selection for tailored analysis.
+Welcome to [FLIM Imager](https://github.com/flim-labs/flim-imager-releases), a Tauri application dedicated to **real-time image acquisition and reconstruction**. This software offers a variety of customization tools, including colormap selection, contrast adjustment, ROI exploration, and image region selection for tailored analysis.
 
 In addition, FLIM Imager provides comprehensive support for Time-Correlated Single Photon Counting (**TCSPC**) analysis, both globally and at the single-pixel level and **Phasors** study. Powered by an underlying Rust-based data processor, FLIM Imager enables seamless data retrieval from hardware components and facilitates robust real-time visualization and analysis.
 
@@ -29,7 +29,7 @@ With an intuitive graphical user interface (GUI), FLIM Imager is designed to mee
 
 <!-- GETTING STARTED -->
 ## Getting Started
-To directly test the application, skipping the prerequisites and installation requirements you can download an installer at this [link](https://github.com/flim-labs/flim-imager/releases/tag/v1.0) (_Note: you still need to have the FLIM LABS Data Acquisition Card_). 
+To directly test the application, skipping the prerequisites and installation requirements you can download an installer at this [link](https://github.com/flim-labs/flim-imager-releases/releases/tag/v1.0) (_Note: you still need to have the FLIM LABS Data Acquisition Card_). 
 
 To get a local copy up and running follow these steps.
 
@@ -47,7 +47,7 @@ To be able to run this project locally on your machine you need to satisfy these
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/flim-labs/flim-imager.git
+   git clone https://github.com/flim-labs/flim-imager-releases.git
    ```
 2. Install the dependencies
    ```sh
@@ -74,6 +74,6 @@ Navigate to the following links to view detailed application usage guides:
 
 FLIM LABS: info@flimlabs.com
 
-Project Link: [FLIM LABS - FLIM Imager](https://github.com/flim-labs/flim-imager)
+Project Link: [FLIM LABS - FLIM Imager](https://github.com/flim-labs/flim-imager-releases)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

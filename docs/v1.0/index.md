@@ -43,7 +43,7 @@
 
 ## Introduction
 
-Welcome to [FLIM Imager](https://github.com/flim-labs/flim-imager) _v1.0_ usage guide. In this documentation section, you will find all the necessary information for the proper use of the application.
+Welcome to [FLIM Imager](https://github.com/flim-labs/flim-imager-releases) _v1.0_ usage guide. In this documentation section, you will find all the necessary information for the proper use of the application.
 For a general introduction to the aims, technical requirements and installation of the project, read the [FLIM Imager Homepage](../index.md). You can also follow the [Data export](./data-export.md) dedicated guide link.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -480,6 +480,6 @@ Distributed under the MIT License.
 
 FLIM LABS: info@flimlabs.com
 
-Project Link: [FLIM Imager](https://github.com/flim-labs/flim-imager)
+Project Link: [FLIM Imager](https://github.com/flim-labs/flim-imager-releases)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

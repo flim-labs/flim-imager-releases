@@ -38,7 +38,7 @@
     <img src="../assets/images/export-data-phasors-v1.0.png" alt="GUI v1.0" width="100%">
 </div>
 
-[FLIM Imager](https://github.com/flim-labs/flim-imager) software allows seamless export of imaging analyzed data to JSON files, with convenient plotting and visualization capabilities. This guide provides an in-depth exploration of the **JSON files structure**, offering a comprehensive understanding of how exported data is formatted and can be leveraged.
+[FLIM Imager](https://github.com/flim-labs/flim-imager-releases) software allows seamless export of imaging analyzed data to JSON files, with convenient plotting and visualization capabilities. This guide provides an in-depth exploration of the **JSON files structure**, offering a comprehensive understanding of how exported data is formatted and can be leveraged.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -262,6 +262,6 @@ Distributed under the MIT License.
 
 FLIM LABS: info@flimlabs.com
 
-Project Link: [FLIM Imager](https://github.com/flim-labs/flim-imager)
+Project Link: [FLIM Imager](https://github.com/flim-labs/flim-imager-releases)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
