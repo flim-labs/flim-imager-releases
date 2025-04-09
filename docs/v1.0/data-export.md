@@ -3,9 +3,9 @@
 <div align="center">
   <h1>FLIM Imager Data Export </h1>
 </div>
-<div align="center" style="background-color: #052e4c; padding: 0.5rem; border-radius: 5px">
+<div align="center" style="padding: 0.5rem; border-radius: 5px">
   <a href="https://www.flimlabs.com/">
-    <img src="../assets/images/flim-imager-logo.png" width="250" alt="Logo">
+    <img src="../assets/images/flim-imager-logo-blue.png" width="250" alt="Logo">
   </a>
 </div>
 <br>
@@ -19,13 +19,10 @@
     </li>
     <li><a href="#single-frame-imaging-file-format">Single-Frame Imaging File Format</a></li>
     <li><a href="#cumulative-imaging-file-format">Cumulative Imaging File Format</a></li>
-        <li><a href="#single-frame-phasors-file-format">Single-Frame Phasors File Format</a></li>
-             <li><a href="#cumulative-phasors-file-format">Cumulative Phasors File Format</a></li>
-    <li><a href="#data-visualization">Data Visualization</a>
-    <li><a href="#script-configuration">Script Configuration</a>
-    </li>
-    </ul>
-    </li>
+    <li><a href="#single-frame-phasors-file-format">Single-Frame Phasors File Format</a></li>
+    <li><a href="#cumulative-phasors-file-format">Cumulative Phasors File Format</a></li>
+    <li><a href="#data-visualization">Data Visualization</a></li>
+    <li><a href="#script-configuration">Script Configuration</a></li>
     <li><a href="#useful-links">Useful links</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>

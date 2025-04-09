@@ -2,9 +2,9 @@
 <div align="center">
   <h1>FLIM Imager </h1>
 </div>
-<div align="center" style="background-color:#052e4c; padding: 0.5rem; border-radius: 5px">
+<div align="center" style="padding: 0.5rem; border-radius: 5px">
   <a href="https://www.flimlabs.com/">
-    <img src="./assets/images/flim-imager-logo.png" width="250" alt="Logo">
+    <img src="./assets/images/flim-imager-logo-blue.png" width="250" alt="Logo">
   </a>
 </div>
 <br>
