@@ -1,6 +1,9 @@
 # FLIM Imager Changelog
 
-## Version 1.0
+## Version 1.0.1
+- Fix calibration calculation 
+
+## Version 1.0.0
 
 - Preview/Scouting/FLIM/ FLIM Phasors acquisitions modes;
 - Real-time and post-processing analysis;
