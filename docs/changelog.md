@@ -1,5 +1,10 @@
 # FLIM Imager Changelog
 
+## Version 1.0.2
+- Phasors analysis: add tau_n calculation and display on circlets table
+- Fix phasor plot arc aspect ratio
+- Set laser 'sync-in' as the only default selectable option for STEDYCON setups
+
 ## Version 1.0.1
 - Fix calibration calculation 
 
@@ -19,4 +24,4 @@
 - Possibility to apply a median filter to the phasor plot;
 - User can choose between two image reconstruction modes: Pixel-Line-Frame (PLF) and Line-Frame (LF);
 - Possibility to change acquisition setup configuration (Default/Abberior)
-- When in Abberior setup mode, possibility to acquire in "alternate frame", "alternate line" or "alternate pixel" mode channel assignment
+- When in Abberior STEDYCON setup mode, possibility to acquire in "alternate frame", "alternate line" or "alternate pixel" mode channel assignment
