@@ -1,5 +1,8 @@
 # FLIM Imager Changelog
 
+## Version 1.0.3
+- Add support to 80Mhz 100ps firmwares
+
 ## Version 1.0.2
 - Phasors analysis: add tau_n calculation and display on circlets table
 - Fix phasor plot arc aspect ratio
