@@ -1,5 +1,8 @@
 # FLIM Imager Changelog
 
+## Version 1.0.4
+- Enable Only Frame reconstruction mode
+
 ## Version 1.0.3
 - Add support to 80Mhz 100ps firmwares
 

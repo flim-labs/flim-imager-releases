@@ -29,15 +29,15 @@ With an intuitive graphical user interface (GUI), FLIM Imager is designed to mee
 
 <!-- GETTING STARTED -->
 ## Getting Started
-To test the application, you can download an installer at this [link](https://github.com/flim-labs/flim-imager-releases/releases/tag/v1.0.3) (_Note: you need to have the FLIM LABS Data Acquisition Card_). 
+To test the application, you can download an installer at this [link](https://github.com/flim-labs/flim-imager-releases/releases/tag/v1.0.4) (_Note: you need to have the FLIM LABS Data Acquisition Card_). 
 
 
 ## Usage Guides
 
 Navigate to the following links to view detailed application usage guides:
 
-- [Flim Imager GUI guide](v1.0.3/index.md)
-- [Flim Imager Data export guide](v1.0.3/data-export.md)
+- [Flim Imager GUI guide](v1.0.4/index.md)
+- [Flim Imager Data export guide](v1.0.4/data-export.md)
 
 
 ## Contact
